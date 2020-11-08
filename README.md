@@ -3,7 +3,7 @@ This repo contains the resources that I find useful and informative in different
 
 
 ## I. Backend/Infrastructure/Distributed Systems/Microservices
-I find that technical blogs from tech companies are a huge resource of knowledge and tech companies often update their blogs regularly.
+I find that technical blogs from tech companies are a huge resource of knowledge and tech companies also update their blogs regularly.
 
 **Java Microservices**
 
