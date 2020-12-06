@@ -22,3 +22,8 @@ _Courses_
 
 - Distributed Systems and Cloud Computing with Java: https://www.udemy.com/course/distributed-systems-cloud-computing-with-java/
 
+**Rest API**
+
+_Website_
+
+- https://restfulapi.net: general knowledge about Rest APIs and JSON
