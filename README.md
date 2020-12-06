@@ -5,7 +5,7 @@ This repo contains the resources that I find useful and informative in different
 ## I. Backend/Infrastructure/Distributed Systems/Microservices
 I find that technical blogs from tech companies are a huge resource of knowledge and tech companies also update their blogs regularly.
 
-**Java Microservices**
+### Java Microservices
 
 _Articles_
 
@@ -22,8 +22,8 @@ _Courses_
 
 - Distributed Systems and Cloud Computing with Java: https://www.udemy.com/course/distributed-systems-cloud-computing-with-java/
 
-**Rest API**
+### Rest API
 
-_Website_
+_Websites_
 
 - https://restfulapi.net: general knowledge about Rest APIs and JSON
